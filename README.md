@@ -67,6 +67,10 @@ This application supports automatic updates.
 
 If you encounter bugs or issues, please report them or contact the developer.
 
+Developer Contacts:
+- Discord : @00micxh
+- Signal : micxhx.11
+
 ---
 
 ## 📄 License
