@@ -103,4 +103,4 @@ Reach out via Discord or Signal.
 
 ## 📄 License
 
-MIT License
+Custom Proprietary License (See LICENSE)
