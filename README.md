@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/v/release/00micxh794/stella-dma-tool-releases?label=version">
   <img src="https://img.shields.io/badge/platform-Windows-blue">
   <img src="https://img.shields.io/badge/status-active-success">
+  <img src="https://img.shields.io/github/downloads/00micxh794/stella-dma-tool-releases/total?label=downloads">
 </p>
 
 ---
