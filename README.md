@@ -1,75 +1,102 @@
-# Stella DMA Tool Releases
+# Stella DMA Tool
 
-This repository hosts official release builds for **Stella DMA Tool**, a Windows desktop utility for managing DMA hardware.
+<p align="center">
+  <b>All-in-one Windows utility for DMA hardware</b><br>
+  Flash firmware, read DNA ID, install drivers, and run PCILeech diagnostics — all from a clean interface.
+</p>
 
-> ⚠️ This repo contains **release files only**. Source code is not included.
-
----
-
-## 📦 Download
-
-Go to the **Releases** tab and download the latest version:
-
-👉 https://github.com/00micxh794/stella-dma-tool-releases/releases
-
-Download:
-- `Stella-DMA-Tool-x.x.x-Setup.exe`
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/00micxh794/stella-dma-tool-releases?label=version">
+  <img src="https://img.shields.io/badge/platform-Windows-blue">
+  <img src="https://img.shields.io/badge/status-active-success">
+</p>
 
 ---
 
-## 🚀 Features
+## 🚀 Overview
 
-- Driver installation (CH347 / RS232)
-- Firmware flashing via OpenOCD
-- DNA ID reading
-- PCILeech speed testing
-- Clean UI with live logs
+Stella DMA Tool simplifies DMA workflows into a single desktop application.
+
+No more manual scripts or scattered tools — everything is handled through a streamlined UI with real-time logs and guided actions.
 
 ---
 
-## 🖥️ Requirements
+## ✨ Features
 
-- Windows (64-bit)
-- Administrator privileges (for driver installation)
-- Compatible DMA hardware
+- 🔌 **Driver Installation**
+  - CH347 & RS232 support
+  - One-click install
+
+- ⚡ **Firmware Flashing**
+  - OpenOCD-based flashing
+  - Supports 35T / 75T / 100T boards
+
+- 🧬 **DNA ID Reader**
+  - Fast hardware identification
+  - Copy-ready output
+
+- 📊 **PCILeech Speed Test**
+  - Benchmark + read tests
+  - Averaged results displayed
+
+- 🔄 **Auto Updates**
+  - Built-in updater
+  - Seamless install & restart
 
 ---
 
-## ⚠️ Important Notes
+## 🖼️ Showcase
 
-- Install the correct driver before using the tool
-- Select the correct board type:
-  - 35T
-  - 75T
-  - 100T
-- Using incorrect firmware or configuration may damage your device
+![Demo](./assets/demo.gif)
+
+---
+
+## 📦 Installation
+
+1. Go to Releases:  
+   👉 https://github.com/00micxh794/stella-dma-tool-releases/releases  
+
+2. Download: Stella-DMA-Tool-x.x.x-Setup.exe
+
+3. Run the installer
+
+---
+
+## ⚙️ Usage
+
+1. Install the correct driver (CH347 / RS232)
+2. Select your board:
+- 35T
+- 75T
+- 100T
+3. Use:
+- Flash Firmware
+- Read DNA ID
+- Speed Test
+
+All actions include live logs.
 
 ---
 
 ## 🔄 Updates
 
-This application supports automatic updates.
-
-- The app checks for updates through this repository
-- You will be prompted to download and install updates when available
-
----
-
-## 🛠️ Installation
-
-1. Download the latest `.exe` from Releases
-2. Run the installer
-3. Launch the app from desktop or start menu
+- App checks for updates automatically
+- Notifies you when a new version is available
+- Updates install seamlessly from within the app
 
 ---
 
-## 🐞 Issues / Feedback
+## 👨‍💻 Developer
 
-If you encounter bugs or issues, please report them or contact the developer.
+- **Discord:** `@00micxh`  
+- **Signal:** `micxhx.11`
 
-Developer Contacts:
-- Discord : @00micxh
-- Signal : micxhx.11
+---
+
+## 🐞 Feedback
+
+Found a bug or issue?  
+Reach out via Discord or Signal.
 
 ---
 
